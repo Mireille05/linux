@@ -1,3 +1,9 @@
 once u hve a folder, you can move into it using the cd command. cd means change directory. You invoke it specifying a folder to move into. You can specify a folder name, or an entire path.
 
 Whenever you feel lost in the filesystem, call the pwd command to know where you are: it prints out current folder path
+
+once u hve a folder, you can move into it using the cd command. cd means change directory. You invoke it specifying a folder to move into. You can specify a folder name, or an entire path.
+
+Whenever you feel lost in the filesystem, call the pwd command to know where you are: it prints out current folder path
+
+folder of commands
